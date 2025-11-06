@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAAB52C-506C-404D-95BD-1EF917EE24DE}|Infrastructure\\Infrastructure.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\infrastructure\\facade\\libraryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAAB52C-506C-404D-95BD-1EF917EE24DE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\facade\\libraryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\api\\wwwroot\\web\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|solutionrelative:api\\wwwroot\\web\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\api\\wwwroot\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|solutionrelative:api\\wwwroot\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC2E42-BB10-4400-A618-2C5358781D37}|Domain\\Domain.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\domain\\interfaces\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC2E42-BB10-4400-A618-2C5358781D37}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC2E42-BB10-4400-A618-2C5358781D37}|Domain\\Domain.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\domain\\interfaces\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC2E42-BB10-4400-A618-2C5358781D37}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC2E42-BB10-4400-A618-2C5358781D37}|Domain\\Domain.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\domain\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC2E42-BB10-4400-A618-2C5358781D37}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC2E42-BB10-4400-A618-2C5358781D37}|Domain\\Domain.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\domain\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC2E42-BB10-4400-A618-2C5358781D37}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\api\\dtos\\librodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|solutionrelative:api\\dtos\\librodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\api\\dtos\\librocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|solutionrelative:api\\dtos\\librocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\api\\dtos\\autorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|solutionrelative:api\\dtos\\autorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\api\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|solutionrelative:api\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\api\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|solutionrelative:api\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{216432AF-97A1-4306-9444-B426ED2095D1}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAAB52C-506C-404D-95BD-1EF917EE24DE}|Infrastructure\\Infrastructure.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\infrastructure\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAAB52C-506C-404D-95BD-1EF917EE24DE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAAB52C-506C-404D-95BD-1EF917EE24DE}|Infrastructure\\Infrastructure.csproj|c:\\users\\carli\\desktop\\proyecto\\eread\\infrastructure\\repositories\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAAB52C-506C-404D-95BD-1EF917EE24DE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\Domain\\Entities\\Autor.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Autor.cs",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\Domain\\Entities\\Autor.cs",
+              "RelativeToolTip": "Domain\\Entities\\Autor.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:01:15.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\Domain\\Entities\\Libro.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Libro.cs",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\Domain\\Entities\\Libro.cs",
+              "RelativeToolTip": "Domain\\Entities\\Libro.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:03:10.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\Domain\\Interfaces\\IAutorRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAutorRepository.cs",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\Domain\\Interfaces\\IAutorRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAutorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:38:20.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\Domain\\Interfaces\\ILibroRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ILibroRepository.cs",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\Domain\\Interfaces\\ILibroRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ILibroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:38:28.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\wwwroot\\Web\\app.js",
+              "RelativeDocumentMoniker": "API\\wwwroot\\Web\\app.js",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\wwwroot\\Web\\app.js",
+              "RelativeToolTip": "API\\wwwroot\\Web\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-05T22:30:56.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\wwwroot\\Web\\index.html",
+              "RelativeDocumentMoniker": "API\\wwwroot\\Web\\index.html",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\wwwroot\\Web\\index.html",
+              "RelativeToolTip": "API\\wwwroot\\Web\\index.html",
+              "ViewState": "AgIAADIAAAAAAAAAAAAhwEEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-05T22:22:42.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryFacade.cs",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\Infrastructure\\Facade\\LibraryFacade.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Facade\\LibraryFacade.cs",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\Infrastructure\\Facade\\LibraryFacade.cs",
+              "RelativeToolTip": "Infrastructure\\Facade\\LibraryFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:39:37.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibroDetalleDto.cs",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\DTOs\\LibroDetalleDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\LibroDetalleDto.cs",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\DTOs\\LibroDetalleDto.cs",
+              "RelativeToolTip": "API\\DTOs\\LibroDetalleDto.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:07:33.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutorCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\DTOs\\AutorCreateDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\AutorCreateDto.cs",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\DTOs\\AutorCreateDto.cs",
+              "RelativeToolTip": "API\\DTOs\\AutorCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:58:09.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibroCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\DTOs\\LibroCreateDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\LibroCreateDto.cs",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\DTOs\\LibroCreateDto.cs",
+              "RelativeToolTip": "API\\DTOs\\LibroCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:58:21.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "API\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwFgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:39:16.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "API\\Controllers\\AutoresController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:39:05.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T21:57:19.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:28:13.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\Infrastructure\\Repositories\\AutorRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\AutorRepository.cs",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\Infrastructure\\Repositories\\AutorRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\AutorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:38:42.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\Infrastructure\\Repositories\\LibroRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\LibroRepository.cs",
+              "ToolTip": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\Infrastructure\\Repositories\\LibroRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\LibroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:38:49.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

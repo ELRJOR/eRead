@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "PVIJvhmnBVgMvtA81C2ecZhXRsrCsUtlGcbkgiuSshs=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\wwwroot\\Web\\app.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "Web/app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k3vg0dbgvw",
+      "Integrity": "kPoAOcET29agR8zskyEUu2woPOzvaPA/blCd0c0dHGY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Web\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\wwwroot\\Web\\index.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "Web/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uyrddn37bd",
+      "Integrity": "KlgEOVnp8dO8YJbPXzG+bZgkLMqP5RqLF82OC6WZ7sU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Web\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Web/app.js",
+      "AssetFile": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\wwwroot\\Web\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kPoAOcET29agR8zskyEUu2woPOzvaPA/blCd0c0dHGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Nov 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kPoAOcET29agR8zskyEUu2woPOzvaPA/blCd0c0dHGY="
+        }
+      ]
+    },
+    {
+      "Route": "Web/app.k3vg0dbgvw.js",
+      "AssetFile": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\wwwroot\\Web\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kPoAOcET29agR8zskyEUu2woPOzvaPA/blCd0c0dHGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Nov 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k3vg0dbgvw"
+        },
+        {
+          "Name": "label",
+          "Value": "Web/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kPoAOcET29agR8zskyEUu2woPOzvaPA/blCd0c0dHGY="
+        }
+      ]
+    },
+    {
+      "Route": "Web/index.html",
+      "AssetFile": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\wwwroot\\Web\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KlgEOVnp8dO8YJbPXzG+bZgkLMqP5RqLF82OC6WZ7sU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Nov 2025 00:07:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KlgEOVnp8dO8YJbPXzG+bZgkLMqP5RqLF82OC6WZ7sU="
+        }
+      ]
+    },
+    {
+      "Route": "Web/index.uyrddn37bd.html",
+      "AssetFile": "C:\\Users\\carli\\Desktop\\Proyecto\\eRead\\API\\wwwroot\\Web\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KlgEOVnp8dO8YJbPXzG+bZgkLMqP5RqLF82OC6WZ7sU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Nov 2025 00:07:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uyrddn37bd"
+        },
+        {
+          "Name": "label",
+          "Value": "Web/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KlgEOVnp8dO8YJbPXzG+bZgkLMqP5RqLF82OC6WZ7sU="
+        }
+      ]
+    }
+  ]
+}

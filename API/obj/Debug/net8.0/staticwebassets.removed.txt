@@ -1,0 +1,2 @@
+C:\Users\carli\Desktop\Proyecto\eRead\API\wwwroot\Web\authors.js
+C:\Users\carli\Desktop\Proyecto\eRead\API\wwwroot\Web\books.js
